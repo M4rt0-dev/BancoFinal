@@ -1,12 +1,14 @@
 # Aplicación de un banco.
 
+## Trabajo final Entornos de Desarrollo
+
 ## Descripción de este proyecto.
 <br>
 Este es un proyecto para un trabajo final de la asignatura de entornos de desarrollo, en este proyecto te encontrarás una aplicación creada para la gestion de un banco.
 
 `version 1.1`
 
-Para la instalación de este proyecto primero descomprimir el archivo si esta comprimido, posteriormente necesitaras un IDE capaz de reproducir archivos `.java` posteriormente lo ejecutaras con la consola.
+Para la instalación de este proyecto primero descomprimir el archivo si está comprimido, posteriormente necesitarás un IDE capaz de reproducir archivos `.java` posteriormente lo ejecutaras con la consola.
 
 ### Autores
 
@@ -16,7 +18,7 @@ Para la instalación de este proyecto primero descomprimir el archivo si esta co
 
 ### Instrucciones de uso
 
-Iniciar el IDE y abrir la carpeta en la que se encuentran los archivos previamente descomprimidos, posteriormente deberas escribir en codigo de java como en los ejemplos que te dejaremos mas abajo las acciones necesarias que quieras llevar a cabo, posteriormente tendras que guardar los cambios en la base de datos, y, cada vez que quieras hacer cambios en la base de daros tendrás que primero cargar la base de datos y posteriormente hacer los cambios, tras esto volver a guardar la base de datos.
+Iniciar el IDE y abrir la carpeta en la que se encuentran los archivos previamente descomprimidos, posteriormente deberás escribir en código de java como en los ejemplos que te dejaremos más abajo las acciones necesarias que quieras llevar a cabo, posteriormente tendrás que guardar los cambios en la base de datos, y, cada vez que quieras hacer cambios en la base de daros tendrás que primero cargar la base de datos y posteriormente hacer los cambios, tras esto volver a guardar la base de datos.
 
 Ejemplos:
 
