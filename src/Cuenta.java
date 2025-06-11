@@ -33,7 +33,7 @@ public class Cuenta {
             System.out.println("Ingreso exitoso");
             return true;
         } else {
-            System.out.println("La cantidad a ingresarDinero no puede ser negativa");
+            System.out.println("La cantidad a ingresarDinero no puede ser negativa ni nula");
         }
         return false;
     }
@@ -49,8 +49,8 @@ public class Cuenta {
             saldo -= cantidad;
             System.out.println("Retirada exitosa");
             return true;
-        } else if (cantidad < 0) {
-            System.out.println("La cantidad a retirar no puede ser negativa");
+        } else if (cantidad <= 0) {
+            System.out.println("La cantidad a retirar no puede ser negativa ni nula");
             return false;
         } else {
             System.out.println("La cantidad a retirar no puede ser mayor al limite de la cuenta");
